@@ -16,17 +16,6 @@
     <Filter Include="Archivos de origen\Shader">
       <UniqueIdentifier>{d190f0af-4580-40d6-8161-8b4a2075a437}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Archivos de origen\shaders">
-      <UniqueIdentifier>{7190ff73-3455-4ac1-a072-8a580577f2b0}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Shader\core.frag">
-      <Filter>Archivos de origen\shaders</Filter>
-    </None>
-    <None Include="Shader\core.vs">
-      <Filter>Archivos de origen\shaders</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Shader.h">
